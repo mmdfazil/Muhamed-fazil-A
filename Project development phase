@@ -1,0 +1,8 @@
+	1.	Set up the development environment – Install the required software, tools, frameworks, and libraries.
+	2.	Develop the frontend – Create the user interface, pages, forms, buttons, and other visible elements.
+	3.	Develop the backend – Implement the main logic and functions of the system.
+	4.	Create and connect the database – Store and manage the required user and project data.
+	5.	Implement major features – Develop all the functions identified during requirement analysis.
+	6.	Integrate components – Connect the frontend, backend, database, and other services.
+	7.	Test during development – Check each feature and fix errors as they are found.
+	8.	Build the working version – Combine all components into a complete functional system.
