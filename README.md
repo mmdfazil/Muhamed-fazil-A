@@ -1,0 +1,2 @@
+# Muhamed-fazil-A
+FitBuddy – AI Fitness Plan Generator using Gemini Models
