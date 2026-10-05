@@ -1,0 +1,7 @@
+1.	Design the system architecture – Decide how different parts of the system will work together.
+	2.	Design the user interface (UI) – Plan screens, buttons, menus, forms, and overall appearance.
+	3.	Design the database – Decide what data needs to be stored and how it will be organized.
+	4.	Design system functions – Define how each feature will work.
+	5.	Choose technologies – Select suitable programming languages, frameworks, databases, and tools.
+	6.	Create diagrams – Use flowcharts, use-case diagrams, ER diagrams, or data-flow diagrams to represent the system.
+	7.	Prepare the final design – Create a complete blueprint that developers can follow during implementation.
