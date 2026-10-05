@@ -1,0 +1,8 @@
+1.	Prepare test cases – Create different situations to check each feature.
+	2.	Test individual components – Check each module separately.
+	3.	Integration testing – Check whether different modules work correctly together.
+	4.	Functional testing – Verify that all required features work as expected.
+	5.	User interface testing – Check buttons, forms, navigation, layout, and usability.
+	6.	Performance testing – Check the speed, stability, and response of the system.
+	7.	Find and fix bugs – Identify errors and correct them.
+	8.	Final testing – Test the complete system before deployment.
